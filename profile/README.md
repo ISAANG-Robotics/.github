@@ -1,4 +1,6 @@
 ## Hi there 👋
+We are a student group passionate about AI and robotics.  
+We design and build intelligent robotic systems through hands-on projects, leveraging technologies such as computer vision, reinforcement learning, and robot control.
 
 <!--
 
